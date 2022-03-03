@@ -19,7 +19,7 @@ let songs = [
     },
     {
         name: 'Back to hometown',
-        path: './assets/music/BackToHomeTown.mp3',
+        path: './assets/music/BackToHometown.mp3',
         artist: 'Sol7',
         cover: './assets/img/sol7.jpeg'
     },

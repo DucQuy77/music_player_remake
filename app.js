@@ -62,7 +62,7 @@ let songs = [
     {
         name: 'Muộn rồi mà sao còn',
         path: './assets/music/music08.mp3',
-        artist: 'Avicii',
+        artist: 'Sơn Tùng M-TP',
         cover: './assets/img/img10.jpg'
     },
 ]
